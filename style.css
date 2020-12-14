@@ -1,0 +1,40 @@
+img {
+    width: 30%;
+    margin-top: 8%;
+}
+body {
+    text-align: center;
+    background: linear-gradient(blue,lightblue,aliceblue , white);
+    background-repeat: no-repeat;
+}
+.line {
+    width: 50%;
+    height: 6px;
+    background: black;
+    margin: auto;
+}
+p {
+    color: darkcyan
+}
+h1 {
+    color: darkred;
+}
+#paint {
+    font-family: 'Pacifico', cursive;
+}
+#menu{
+    list-style: none;
+    background: rgba(100, 0, 0,0.5);
+    padding: 10px;
+    position: fixed;
+    margin:0px;
+    width: 100%;
+}
+.link>a{
+    text-decoration: none;
+    color:bisque;
+}
+.link{
+    display: inline-block;
+    margin-right: 10px;
+}
